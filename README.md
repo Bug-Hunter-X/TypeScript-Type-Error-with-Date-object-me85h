@@ -1,0 +1,2 @@
+# TypeScript Type Error with Date object
+This example demonstrates a common TypeScript type error that occurs when passing an incorrect data type to a function argument.  The function `greet` expects a `Date` object but receives a string, leading to a type error.  The solution demonstrates type checking and handling the invalid input gracefully.
